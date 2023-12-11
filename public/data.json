@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": "Game Expo Pass",
+      "image": "https://i.ibb.co/why6tC2/gamming-1.jpg",
+      "price": "$50",
+      "description": "Get ready for the ultimate gaming extravaganza with the Game Expo Pass. Gain access to a world of gaming wonders, from the latest video game releases and exclusive demos to esports tournaments and celebrity meet-and-greets. Explore the gaming industry's innovations, immerse yourself in virtual reality experiences, and be part of a passionate gaming community. Don't miss out on this epic gaming event!"
+    },
+    {
+      "id": 2,
+      "name": "VIP Gaming Lounge",
+      "image": "https://i.ibb.co/Ht0hxPS/gamming-2.jpg",
+      "price": "$150",
+      "description": "Experience gaming like a true VIP with exclusive access to the VIP Gaming Lounge. Enjoy a luxurious and comfortable gaming environment, complete with complimentary refreshments, priority access to demos, and special meet-and-greet opportunities with gaming celebrities. This is your chance to elevate your gaming convention experience to a whole new level."
+    },
+    {
+      "id": 3,
+      "name": "Cosplay Contest Entry",
+      "image": "https://i.ibb.co/f8NBgsJ/gamming-3.jpg",
+      "price": "$20",
+      "description": "Are you a cosplay enthusiast? Showcase your creativity and craftsmanship by entering our Cosplay Contest. Strut your stuff on the stage in front of a cheering audience and impress our panel of judges. Win amazing prizes and, most importantly, the admiration of fellow cosplayers and fans. Get ready to bring your favorite characters to life!"
+    },
+    {
+      "id": 4,
+      "name": "Game Developer Panel",
+      "image": "https://i.ibb.co/GF0VD8L/gammin-4.jpg",
+      "price": "$30",
+      "description": "Delve into the world of game development with our Game Developer Panel. Hear from industry experts, top game designers, and programmers as they share their insights and experiences. Discover the latest trends, technologies, and challenges in the gaming industry. Whether you're an aspiring game developer or a curious gamer, this panel is a must-attend event."
+    },
+    {
+      "id": 5,
+      "name": "Merchandise Booth",
+      "image": "https://i.ibb.co/fv751T3/gamming-5.jpg",
+      "price": "$200",
+      "description": "Promote your gaming products and merchandise at our event by renting a Merchandise Booth. Showcase your gaming-related items, from apparel and accessories to collectibles and artwork. Connect with gaming enthusiasts and potential customers, and make your mark in the gaming industry. Don't miss this opportunity to reach a dedicated and passionate audience."
+    },
+    {
+      "id": 6,
+      "name": "Networking Session",
+      "image": "https://i.ibb.co/qWLZ37p/gamming6.jpg",
+      "price": "$25",
+      "description": "Expand your gaming network and connect with fellow gamers and industry professionals at our Gamer Networking Session. Share your experiences, discuss the latest game releases, and collaborate on exciting projects. This session is the perfect opportunity to build meaningful connections in the gaming community and take your passion for gaming to the next level."
+    }
+  ]
+  

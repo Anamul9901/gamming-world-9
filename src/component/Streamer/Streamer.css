@@ -1,0 +1,42 @@
+.styleStramer{
+    background: url('https://i.ibb.co/C6TGCMp/bacGam.jpg'),
+    linear-gradient(rgba(0, 0, 0, 0.95), rgba(0, 0, 0, 0.95));
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+@keyframes streamer {
+    from{
+        left: 5px;
+        
+         
+    }
+    to{
+        left: 0px;
+
+    }
+    
+}
+
+.animat:hover{
+    position: relative;
+    animation: streamer 1s ease-in-out 0s infinite alternate;
+}
+@keyframes streamer2 {
+    from{
+        /* left: 0px; */
+        opacity: 60%;
+    }
+    to{
+        /* left: 5px; */
+    }
+    
+}
+
+.animat2{
+    position: relative;
+    animation: streamer2 1s ease-in-out 0s infinite alternate;
+}

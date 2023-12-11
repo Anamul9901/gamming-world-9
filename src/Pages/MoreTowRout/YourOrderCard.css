@@ -1,0 +1,7 @@
+.styleYourOrderCard{
+    background: url('../../assets/gamming.jpg'),
+        linear-gradient(rgba(7, 3, 24, 0.95), rgba(7, 1, 1, 0.95));
+    background-blend-mode: overlay;
+    background-repeat: repeat;
+    background-size: cover;
+}

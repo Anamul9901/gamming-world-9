@@ -1,0 +1,7 @@
+.styleProfile{
+    background: url('../../assets/gamming.jpg'),
+        linear-gradient(rgba(18, 9, 72, 0.95), rgba(17, 12, 12, 0.95));
+    background-blend-mode: overlay;
+    background-repeat: repeat;
+    background-size: cover;
+}

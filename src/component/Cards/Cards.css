@@ -1,0 +1,7 @@
+.styleCards{
+    background: url('../../assets/gamming.jpG'),
+        linear-gradient(rgba(28, 44, 3, 0.95), rgba(11, 1, 1, 0.95));
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

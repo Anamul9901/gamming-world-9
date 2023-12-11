@@ -1,0 +1,7 @@
+.styleDetailsCard{
+    background: url('../../assets/gamming.jpg'),
+        linear-gradient(rgba(23, 86, 109, 0.95), rgba(26, 1, 1, 0.95));
+    background-blend-mode: overlay;
+    background-repeat: repeat;
+    background-size: cover;
+}

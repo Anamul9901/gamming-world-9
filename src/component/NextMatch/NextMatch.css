@@ -1,0 +1,40 @@
+.styleNextMatch {
+
+    background: url('../../assets/bacImgForGam.jpg'),
+        linear-gradient(rgba(10, 0, 0, 0.95), rgba(21, 1, 21, 0.95));
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+
+@keyframes next {
+    from {
+        top: 8px;
+    }
+
+    to {
+        top: 0px;
+    }
+}
+
+.nextMatch {
+    position: relative;
+    animation: next 1s ease-in-out 0s infinite alternate;
+}
+@keyframes next2 {
+    from {
+        top: 0px;
+    }
+
+    to {
+        top: 8px;
+    }
+}
+
+.nextMatch2 {
+    position: relative;
+    animation: next2 1s ease-in-out 0s infinite alternate;
+}
